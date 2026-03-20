@@ -1,2 +1,3 @@
-# rapid-survey-tool-xz1t
-Survey and feedback platform for modern development workflows
+# Rapid Survey Tool Xz1T
+
+A survey and feedback platform for modern development workflows.
